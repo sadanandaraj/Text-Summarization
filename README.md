@@ -1,6 +1,6 @@
 # End to end Text-Summarizer-Project
 
-## Workflows 
+## Workflows : 
 
 1. Update config.yaml
 2. Update params.yaml
@@ -49,9 +49,9 @@ open up you local host and port
 
 
 ```bash
-Author: Krish Naik
+Author: M Sadananda Raj
 Data Scientist
-Email: krishnaik06@gmail.com
+Email: sadanandaraj52@gmail.com
 
 ```
 
